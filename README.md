@@ -20,3 +20,7 @@ This project implements an **event-driven microservices architecture** using **A
 - Build microservices that communicate asynchronously
 - Handle multiple consumers and events
 - Understand event-driven architecture benefits
+
+## Architecture Diagram
+
+<img width="1658" height="838" alt="image" src="https://github.com/user-attachments/assets/5c878748-1629-40a9-8e74-c1b49cfbfb91" />
